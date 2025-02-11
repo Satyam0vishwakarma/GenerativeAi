@@ -2,8 +2,7 @@
 "This repository is based on an internship project. The project-related images are uploaded here."
 Some sample Generated Images : 
 ***
-# An ancient underwater temple with divine idols and a diver exploring the
-scene. Light streams through the dark, murky water, highlighting carvings and fish swimming around. The scene is serene and mystical.
+# An ancient underwater temple with divine idols and a diver exploring the scene. Light streams through the dark, murky water, highlighting carvings and fish swimming around. The scene is serene and mystical.
 ![ComfyUI_00003_](https://github.com/user-attachments/assets/8082c78e-92c8-40cd-8649-3b797fbf4e7f)
 
 ***
