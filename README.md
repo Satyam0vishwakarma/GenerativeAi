@@ -6,7 +6,7 @@ Some sample Generated Images :
 ![ComfyUI_00003_](https://github.com/user-attachments/assets/8082c78e-92c8-40cd-8649-3b797fbf4e7f)
 
 ***
-# A group of swans flying on the top of river
+# A group of swans flying on the top of river.
 ![ComfyUI_00006_](https://github.com/user-attachments/assets/c0f7ec93-6f22-444d-835c-eeb5e7ad47f7)
 
 ***
@@ -24,10 +24,10 @@ Some sample Generated Images :
 # A stunning nebula stretching across the night sky, with vibrant swirls of purples, blues, reds, and golds. The stars scattered throughout create a dazzling cosmic dance, painting a breath-taking masterpiece in space.
 ![ComfyUI_00032_](https://github.com/user-attachments/assets/51b65532-bbd2-48e1-8690-723a5b526572)
 ***
-# The Egyptian pyramids standing tall in the desert, with a cloudless sky overhead
+# The Egyptian pyramids standing tall in the desert, with a cloudless sky overhead.
 ![ComfyUI_00033_](https://github.com/user-attachments/assets/9c4ae08f-1f17-4ad8-a00f-e5c47386862d)
 ***
-# A playful kitten chasing a ball of yarn
+# A playful kitten chasing a ball of yarn.
 ![ComfyUI_00034_](https://github.com/user-attachments/assets/d56a3831-1c5b-422d-99d3-5cd9eeab463b)
 
 ***
@@ -61,12 +61,12 @@ Requirements: You should have a good Pc/Laptop with minimum of 8GB Ram or A Nvid
 ***
 
 
-First prompt box for positive prompt(your prompt)
+First prompt box for positive prompt(your prompt).
 
 
 * ![image](https://github.com/user-attachments/assets/21c1d49e-9898-4d12-be03-b2c860da8bb1)
 
-Second prompt box for negative prompt box(it can be like no blur, no human, etc.)
+Second prompt box for negative prompt box(it can be like no blur, no human, etc.).
 
 
 ![image](https://github.com/user-attachments/assets/633c5f42-c03c-470e-83bf-dbeaff86c49d)
